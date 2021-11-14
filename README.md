@@ -1,6 +1,6 @@
 # Etch a Sketch
 TOP https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project
-##Assignment
+## Assignment
 
     Follow the instructions atop Odin’s Recipes project to set up a git repository for this project.
     Create a webpage with a 16x16 grid of square divs.
